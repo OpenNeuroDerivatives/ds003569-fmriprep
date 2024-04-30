@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/GX/W2/MD5E-s482727--7b49b48689b844e5cb2cf3cf802e7d68.K/MD5E-s482727--7b49b48689b844e5cb2cf3cf802e7d68.K
